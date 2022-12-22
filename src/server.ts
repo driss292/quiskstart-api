@@ -73,7 +73,7 @@ const startServer = () => {
 
     // Tests Server
     app.get("/", (req: Request, res: Response, next: NextFunction) => {
-        res.status(200).json("eShop API");
+        res.status(200).json("Template Express TypeScript MongoDB");
     });
     app.get("/ping", (req, res, next) => {
         res.status(200).json({ message: "pong" });

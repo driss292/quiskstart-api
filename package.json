@@ -1,7 +1,7 @@
 {
     "name": "quickstart-api",
     "version": "1.0.0",
-    "description": "Template Express TypeScript Mongoose",
+    "description": "Template Express TypeScript MongoDB",
     "main": "src/server.ts",
     "scripts": {
         "start": "node build/server.js",
