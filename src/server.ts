@@ -70,6 +70,8 @@ const startServer = () => {
     });
 
     // Routes
+    //
+    //
 
     // Tests Server
     app.get("/", (req: Request, res: Response, next: NextFunction) => {
